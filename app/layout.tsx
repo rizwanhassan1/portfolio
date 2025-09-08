@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   openGraph: {
-    title: "Asif Langrah — AI Automation Expert",
+    title: "Rizwan Hassan — AI Automation Expert",
     description:
       "Transform your business with cutting-edge AI automation solutions. Expert in RAG systems, intelligent agents, and workflow automation.",
     url: "https://asiflangrah.com",
